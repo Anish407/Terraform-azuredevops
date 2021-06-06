@@ -1,0 +1,5 @@
+rg_name="demo-rg"
+rg_location="West Europe"
+msi_name="dev-msi"
+app_insights_name="testanishappinsghts"
+#app_service_planname="testanishappspplandemo"
